@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Scavenger",
+"dataUrl": "Scavenger.data.unityweb",
+"asmCodeUrl": "Scavenger.asm.code.unityweb",
+"asmMemoryUrl": "Scavenger.asm.memory.unityweb",
+"asmFrameworkUrl": "Scavenger.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
